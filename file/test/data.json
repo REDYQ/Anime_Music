@@ -1,14 +1,14 @@
 [
 	{
-		"icon": "https://raw.githubusercontent.com/REDYQ/Anime_Music/refs/heads/main/file/icon/cover/33.jpg",
+		"icon": "icon/cover/33.jpg",
 		"name": "Дандадан",
-		"data": "https://raw.githubusercontent.com/REDYQ/Anime_Music/refs/heads/main/file/music/33/data.json",
+		"data": "music/33/data.json",
 		"number": "33"
 	},
 	{
-		"icon": "https://raw.githubusercontent.com/REDYQ/Anime_Music/refs/heads/main/file/icon/cover/34.jpg",
+		"icon": "icon/cover/34.jpg",
 		"name": "Рубеж Шангри-Ла: Любитель игрошлака бросает вызов топ-игре",
-		"data": "https://raw.githubusercontent.com/REDYQ/Anime_Music/refs/heads/main/file/music/34/data.json",
+		"data": "music/34/data.json",
 		"number": "34"
 	}
 ]
