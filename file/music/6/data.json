@@ -79,7 +79,7 @@
 		"music": "music/6/3/2.mp3",
 		"video": "RQ-S1/am1@id6-3_2.mp4",
 		"volume_master": "0",
-		"episode": "(1-2), 3-7, <8-9>, 10-12",
+		"episode": "(1-2), 3-7, *8-9*, 10-12",
 		"type": "ENDING",
 		"full": "FULL"
 	},
