@@ -1,0 +1,26 @@
+[
+	{
+		"icon": "icon/asset/85/1/1.jpg",
+		"name": "Love You Tender!",
+		"autor": "Maaya Uchida",
+		"source": "История знакомства опытной тебя и неопытного меня",
+		"music": "music/85/1/1.mp3",
+		"video": "RQ-S1/am1@id85-1_1.mp4",
+		"volume_master": "0",
+		"episode": "1-9, 11-12",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "icon/asset/85/1/2.jpg",
+		"name": "Ai Kotoba",
+		"autor": "AliA",
+		"source": "История знакомства опытной тебя и неопытного меня",
+		"music": "music/85/1/2.mp3",
+		"video": "RQ-S1/am1@id85-1_2.mp4",
+		"volume_master": "0",
+		"episode": "2-12",
+		"type": "ENDING",
+		"full": "FULL"
+	}
+]
