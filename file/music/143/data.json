@@ -1,0 +1,74 @@
+[
+	{
+		"icon": "icon/asset/143/1/1.jpg",
+		"name": "Your Majesty Spare Your Life",
+		"autor": "Asa Aza",
+		"source": "Пощади меня господин",
+		"music": "music/143/1/1.mp3",
+		"video": "RQ-S1/am1@id143-1_1.mp4",
+		"volume_master": "0",
+		"episode": "1-12",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "icon/asset/143/1/2.jpg",
+		"name": "Star Fire Awake",
+		"autor": "Chen Leyi",
+		"source": "Пощади меня господин",
+		"music": "music/143/1/2.mp3",
+		"video": "RQ-S1/am1@id143-1_2.mp4",
+		"volume_master": "0",
+		"episode": "2-12",
+		"type": "ENDING",
+		"full": "FULL"
+	},
+	{
+		"icon": "icon/asset/143/2/1.jpg",
+		"name": "Yes, Yes, Yes",
+		"autor": "Yu Jiaoyan",
+		"source": "Пощади меня господин 2",
+		"music": "music/143/2/1.mp3",
+		"video": "RQ-S1/am1@id143-2_1.mp4",
+		"volume_master": "0",
+		"episode": "1-12",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "icon/asset/143/2/2.jpg",
+		"name": "Accompany the moon",
+		"autor": "Kinoko Mushroom",
+		"source": "Пощади меня господин 2",
+		"music": "music/143/2/2.mp3",
+		"video": "RQ-S1/am1@id143-2_2.mp4",
+		"volume_master": "0",
+		"episode": "2-12",
+		"type": "ENDING",
+		"full": "FULL"
+	}
+]	{
+		"icon": "icon/asset/143/0/1.jpg",
+		"name": "Little Stars",
+		"autor": "Yang Tianxiang",
+		"source": "Пощади меня господин",
+		"music": "music/143/0/1.mp3",
+		"video": "#",
+		"volume_master": "0",
+		"episode": "1 (Пощади меня господин)",
+		"type": "MUSIC",
+		"full": "FULL"
+	},
+	{
+		"icon": "icon/asset/143/0/2.jpg",
+		"name": "Faint Light",
+		"autor": "Zuixue",
+		"source": "Пощади меня господин",
+		"music": "music/143/0/2.mp3",
+		"video": "#",
+		"volume_master": "0",
+		"episode": "9 (Пощади меня господин)",
+		"type": "MUSIC",
+		"full": "FULL"
+	}
+]
