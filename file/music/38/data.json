@@ -1,0 +1,62 @@
+[
+	{
+		"icon": "icon/asset/38/1/1.jpg",
+		"name": "Daidaidaidai Daisuki na Kimi e",
+		"autor": "Kaede Hondo, Miyu Tomita, Maria Naganawa, Asami Seto, Ayaka Asai",
+		"source": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят",
+		"music": "music/38/1/1.mp3",
+		"video": "RQ-S1/am1@id38-1_1.mp4",
+		"volume_master": "0",
+		"episode": "2-11",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "icon/asset/38/1/2.jpg",
+		"name": "Sweet Sign",
+		"autor": "Nako Misaki",
+		"source": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят",
+		"music": "music/38/1/2.mp3",
+		"video": "RQ-S1/am1@id38-1_2.mp4",
+		"volume_master": "0",
+		"episode": "1-10, 12",
+		"type": "ENDING",
+		"full": "FULL"
+	},
+	{
+		"icon": "icon/asset/38/1/3.jpg",
+		"name": "Kyo no Ending wa Watashi ga Kai totta kara Suki ni shite Ii wa yo ne",
+		"autor": "Hahari Hanazono (CV: Sumire Uesaka)",
+		"source": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят",
+		"music": "music/38/1/3.mp3",
+		"video": "RQ-S1/am1@id38-1_3.mp4",
+		"volume_master": "0",
+		"episode": "11",
+		"type": "ENDING",
+		"full": "FULL"
+	}
+]	{
+		"icon": "icon/asset/38/2/1.jpg",
+		"name": "Arigato, Daisuki ni Natte Kurete",
+		"autor": "Rentaro Family",
+		"source": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят 2",
+		"music": "music/38/2/1.mp3",
+		"video": "RQ-S1/am1@id38-2_1.mp4",
+		"volume_master": "0",
+		"episode": "1-12",
+		"type": "OPENING",
+		"full": "FULL"
+	},
+	{
+		"icon": "icon/asset/38/2/2.jpg",
+		"name": "Unmei?",
+		"autor": "Rentarou Family",
+		"source": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят 2",
+		"music": "music/38/2/2.mp3",
+		"video": "RQ-S1/am1@id38-2_2.mp4",
+		"volume_master": "0",
+		"episode": "1-11, (12)",
+		"type": "ENDING",
+		"full": "FULL"
+	}
+]
