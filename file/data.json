@@ -72,9 +72,57 @@
 		"number": "34"
 	},
 	{
+		"icon": "icon/cover/35.jpg",
+		"name": "Повелитель",
+		"data": "music/35/data.json",
+		"number": "35"
+	},
+	{
+		"icon": "icon/cover/36.jpg",
+		"name": "Моб Психо 100",
+		"data": "music/36/data.json",
+		"number": "36"
+	},
+	{
+		"icon": "icon/cover/38.jpg",
+		"name": "Сто девушек, которые очень-очень-очень-очень-очень сильно тебя любят",
+		"data": "music/38/data.json",
+		"number": "38"
+	},
+	{
 		"icon": "icon/cover/78.jpg",
 		"name": "Благоухающий цветок расцветает с достоинством",
 		"data": "music/78/data.json",
 		"number": "78"
+	},
+	{
+		"icon": "icon/cover/83.jpg",
+		"name": "Твоя апрельская ложь",
+		"data": "music/83/data.json",
+		"number": "83"
+	},
+	{
+		"icon": "icon/cover/84.jpg",
+		"name": "Достучаться до тебя",
+		"data": "music/84/data.json",
+		"number": "84"
+	},
+	{
+		"icon": "icon/cover/85.jpg",
+		"name": "История знакомства опытной тебя и неопытного меня",
+		"data": "music/85/data.json",
+		"number": "85"
+	},
+	{
+		"icon": "icon/cover/143.jpg",
+		"name": "Пощади меня господин",
+		"data": "music/143/data.json",
+		"number": "143"
+	},
+	{
+		"icon": "icon/cover/148.jpg",
+		"name": "Волшебник ледяного клинка правит миром",
+		"data": "music/148/data.json",
+		"number": "148"
 	}
 ]
